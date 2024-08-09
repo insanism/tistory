@@ -54,7 +54,20 @@
 </table>
 <details open>
 <summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차1"></a><a style="text-decoration: none !important;" href="#목차">1.</a> 개요</b></h2></summary>
-<p class="text1">내용을 적어요</p>
+<table style="border-collapse: collapse; width: auto; height: auto; margin: 1em 0;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr style="height: auto;">
+<td style="width: 100%; border: 2px dashed #ccc; border-left: 5px solid #8B92C4; background: #eee; padding: 1em; line-height: 160%;" class="text1">“응? 나는 모르는 일인데. 근거 없는 소문은 함부로 퍼뜨리지 않는 게 좋아.”</td>
+</tr>
+</tbody>
+</table>
+<p class="text1"><br />
+이능력이 존재하는 세계관의 고등학생. <a name="돌아가기3"></a><span style="font-size: 12px !important;" class="text1">한계가 없다시피 한 회복력</span><a class="text1" style="font-size: 10.5px; font-weight: normal; text-align: start;" href="#각주3"><sup>[3]</sup></a>의 재생 능력자다.
+<br /><br />
+일단 그 기반이 고등학생 시절에 있기는 하나, <a name="돌아가기4"></a><span style="font-size: 12px !important;" class="text1">부패와 퇴락의 연대기</span><a class="text1" style="font-size: 10.5px; font-weight: normal; text-align: start;" href="#각주4"><sup>[4]</sup></a> 세계관에서는 신화생물이 되어 나이가 무려 세 자릿수를 찍는다. 해당 세계선에서는 신화생물인 만큼 내내 성체를 유지하며 허공에 사물을 만들어 내거나 마을 하나를 통채로 전멸시키는 등, 이능력이라 표현하기엔 과한 힘을 가지고 있다.
+<br /><br />
+언제나 입가에 걸려 있는 은은한 미소와 함께 매사에 느긋하고 여유로운 태도를 취한다. 그 탓에 의뭉스럽다는 인상이 강하며, 타인 앞에서 치부를 드러내는 일이 드물다.
+</p>
 </details>
 <details open>
 <summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차2"></a><a style="text-decoration: none !important;" href="#목차">2.</a> 외형</b></h2></summary>
@@ -130,4 +143,6 @@
 <p class="text1" style="font-size: 5px !important;" data-ke-size="size16">⠀</p>
 <p class="text1" data-ke-size="size16"><a name="각주1"></a><a style="font-weight: normal;" href="#돌아가기1">[1]</a> 세계관에 따라 상이. 사실상 나이에 큰 의미는 없다.</p>
 <p class="text1" data-ke-size="size16"><a name="각주2"></a><a style="font-weight: normal;" href="#돌아가기2">[2]</a> 성인 기준으론 192cm, 92kg.</p>
+<p class="text1" data-ke-size="size16"><a name="각주3"></a><a style="font-weight: normal;" href="#돌아가기3">[3]</a> 전투 시스템에 돌입할 경우 당연히, 형평성을 위해 사망의 가능성이 존재한다.</p>
+<p class="text1" data-ke-size="size16"><a name="각주4"></a><a style="font-weight: normal;" href="#돌아가기4">[4]</a> CoC 7th Edition Fanmade Scenario, The Rotten Chronicle. 일명 ‘로튼 시리즈’.</p>
 <p class="text1" data-ke-size="size16">&nbsp;</p>
