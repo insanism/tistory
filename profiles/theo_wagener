@@ -57,6 +57,34 @@
 <p class="text1">내용을 적어요</p>
 </details>
 <details open>
+<summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차2"></a><a style="text-decoration: none !important;" href="#목차">2.</a> 외형</b></h2></summary>
+<p class="text1">내용을 적어요</p>
+</details>
+<details open>
+<summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차3"></a><a style="text-decoration: none !important;" href="#목차">3.</a> 성격</b></h2></summary>
+<p class="text1">내용을 적어요</p>
+</details>
+<details open>
+<summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차4"></a><a style="text-decoration: none !important;" href="#목차">4.</a> 특이사항</b></h2></summary>
+<p class="text1">내용을 적어요</p>
+</details>
+<details open>
+<summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차5"></a><a style="text-decoration: none !important;" href="#목차">5.</a> 소중한 사람들</b></h2></summary>
+<p class="text1">내용을 적어요</p>
+<details open>
+<summary class="text1"><h2 style="font-size: 1.4em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차5-1"></a><a style="text-decoration: none !important;" href="#목차">5.1.</a> 스카이우스</b></h2></summary>
+<table style="width: 100%;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td><img style="text-align: center;" /><img style="text-align: center; width: 18px; height: 18px;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcmm6kM%2FbtsIZyAd5fG%2F2zmHNzPcLnB6D8neZK1IKK%2Ftfile.svg" /> 자세한 내용은 <a href="/">테오 바그너 & 스카이우스</a> 문서를 참고하십시오.</td>
+</tr>
+</tbody>
+</table>
+</details>
+</details>
+<details open>
+<summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차6"></a><a style="text-decoration: none !important;" href="#목차">6.</a> 기이한 경험들</b></h2></summary>
+<details open>
 <summary class="text1"><h2 style="font-size: 1.4em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차6-1"></a><a style="text-decoration: none !important;" href="#목차">6.1.</a> 망각의 고미가하라</b></h2></summary>
 <table style="width: 100%;" data-ke-align="alignLeft">
 <tbody>
@@ -85,6 +113,11 @@
 </tr>
 </tbody>
 </table>
+</details>
+</details>
+<details open>
+<summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차7"></a><a style="text-decoration: none !important;" href="#목차">7.</a> 특성/기능치</b></h2></summary>
+<p class="text1">내용을 적어요</p>
 </details>
 <p class="text1" style="font-size: 5px !important;" data-ke-size="size16">⠀</p>
 <p class="text1" style="border-bottom: 1px solid #ccc; margin: 10px 0 10px; padding-bottom: 5px;" data-ke-size="size16">⠀</p>
