@@ -48,7 +48,7 @@
 <table style="border-collapse: collapse; width: auto; border: #cccccc; margin: 0 0 20px 5px; line-height: 180%; font-weight: normal !important;" border="1" data-ke-align="alignLeft">
 <tbody>
 <tr style="padding: 0 20px;">
-<td style="width: 100%; margin-left: 5px; padding: 9px 15px 14px 17px; font-size: 12px; line-height: 1.5;"><a name="목차"></a> <span style="font-size: 16px; margin-left: -5px;">목차</span><br /><br /><a style="font-weight: normal;" href="#목차1">1.</a> 개요<br /><a style="font-weight: normal;" href="#목차2">2.</a> 외형<br /><a style="font-weight: normal;" href="#목차3">3.</a> 성격<br /><a style="font-weight: normal;" href="#목차4">4.</a> 특이사항<br /><a style="font-weight: normal;" href="#목차5">5.</a> 소중한 사람들<br /><a style="font-weight: normal; padding-left: 20px;" href="#목차5-1">5.1.</a> 스카이우스<br /><a style="font-weight: normal;" href="#목차6">6.</a> 기이한 경험들<br /><a style="font-weight: normal; padding-left: 20px;" href="#목차6-1">6.1.</a> <a style="font-weight: normal;" href="https://ode-to-lost-friends.tistory.com/22">망각의 고미가하라</a><br /><a style="font-weight: normal; padding-left: 20px;" href="#목차6-2">6.2.</a> <a style="font-weight: normal;" href="https://ode-to-lost-friends.tistory.com/26">로튼 티스</a><br /><a style="font-weight: normal; padding-left: 20px;" href="#목차6-3">6.3.</a> <a style="font-weight: normal;" href="https://ode-to-lost-friends.tistory.com/34">로튼 아이</a><br /><a style="font-weight: normal;" href="#목차7">7.</a> 특성/기능치</td>
+<td style="width: 100%; margin-left: 5px; padding: 9px 15px 14px 17px; font-size: 12px; line-height: 1.5;"><a name="목차"></a> <span style="font-size: 16px; margin-left: -5px;">목차</span><br /><br /><a style="font-weight: normal;" href="#목차1">1.</a> 개요<br /><a style="font-weight: normal;" href="#목차2">2.</a> 외형<br /><a style="font-weight: normal;" href="#목차3">3.</a> 성격<br /><a style="font-weight: normal;" href="#목차4">4.</a> 특이사항<br /><a style="font-weight: normal;" href="#목차5">5.</a> 소중한 사람들<br /><a style="font-weight: normal; padding-left: 20px;" href="#목차5-1">5.1.</a> <a style="font-weight: normal;" href="/">스카이우스<br /><a style="font-weight: normal;" href="#목차6">6.</a> 기이한 경험들<br /><a style="font-weight: normal; padding-left: 20px;" href="#목차6-1">6.1.</a> <a style="font-weight: normal;" href="https://ode-to-lost-friends.tistory.com/22">망각의 고미가하라</a><br /><a style="font-weight: normal; padding-left: 20px;" href="#목차6-2">6.2.</a> <a style="font-weight: normal;" href="https://ode-to-lost-friends.tistory.com/26">로튼 티스</a><br /><a style="font-weight: normal; padding-left: 20px;" href="#목차6-3">6.3.</a> <a style="font-weight: normal;" href="https://ode-to-lost-friends.tistory.com/34">로튼 아이</a><br /><a style="font-weight: normal;" href="#목차7">7.</a> 특성/기능치</td>
 </tr>
 </tbody>
 </table>
@@ -117,7 +117,13 @@
 </details>
 <details open>
 <summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차7"></a><a style="text-decoration: none !important;" href="#목차">7.</a> 특성/기능치</b></h2></summary>
-<p class="text1">내용을 적어요</p>
+<table style="width: 100%;" data-ke-align="alignLeft">
+<tbody>
+<tr>
+<td><img style="text-align: center;" /><img style="text-align: center; width: 18px; height: 18px;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcmm6kM%2FbtsIZyAd5fG%2F2zmHNzPcLnB6D8neZK1IKK%2Ftfile.svg" /> 자세한 내용은 <a href="/">CoC시트/테오 바그너</a> 문서를 참고하십시오.</td>
+</tr>
+</tbody>
+</table>
 </details>
 <p class="text1" style="font-size: 5px !important;" data-ke-size="size16">⠀</p>
 <p class="text1" style="border-bottom: 1px solid #ccc; margin: 10px 0 10px; padding-bottom: 5px;" data-ke-size="size16">⠀</p>
