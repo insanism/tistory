@@ -113,10 +113,10 @@
 </details>
 <details>
 <summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차6"></a><a style="text-decoration: none !important;" href="#목차">6.</a> 기이한 경험들</b></h2></summary>
-<table style="border-collapse: collapse; width: auto; height: auto; margin: 1em 0;" border="1" data-ke-align="alignLeft">
+<table class="text1" style="border-collapse: collapse; width: 100%; border: 1px solid #dddddd; height: auto;" data-ke-align="alignLeft">
 <tbody>
-<tr style="height: auto;">
-<td style="width: 100%; border: 2px dashed #ccc; border-left: 5px solid #8B92C4; background: #eee; padding: 1em; line-height: 160%;" class="text1">이 문서에 <a style="font-weight: bold; color: #8B92C4;">스포일러</a>가 포함되어 있습니다.</td>
+<tr>
+<td style="width: 100%; border: 1px solid gray; border-top: 5px solid #8B92C4; padding: 10px;"><span style="font-size: 15px;">이 문서에</span> <a style="font-size: 15px; font-weight: normal;" href="/" target="_blank" rel="noopener">스포일러</a><span style="font-size: 15px;">가 포함되어 있습니다.</span><br /><br />이 문서가 설명하는 작품이나 인물 등에 대한 줄거리, 결말, 반전 요소 등을 직&middot;간접적으로 포함하고 있습니다.</td>
 </tr>
 </tbody>
 </table>
