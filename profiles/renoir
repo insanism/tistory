@@ -88,7 +88,7 @@
 <td style="width: 100%; padding: 0px 0px; border: 1px solid #ddd; text-align: center;"><img style="max-width: 100%;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJstm3%2FbtsI0r8ENZ9%2F9A5iFBwCfGLBi92mqUAZv1%2Fimg.png"></td>
 </tr>
 <tr style="height: auto;">
-<td style="width: 100%; padding: 5px 10px; border: 1px solid #ddd; text-align: center; background-color: #8b92c4;" colspan="3"><span style="color: #ffffff;"><b><span style="text-decoration: none;">장갑을 착용했을 때와 착용하지 않았을 때</span></b></span></td>
+<td style="width: 100%; padding: 5px 10px; border: 1px solid #ddd; text-align: center; background-color: #8b92c4;" colspan="3"><span style="color: #ffffff;"><b><span style="font-weight: normal; text-decoration: none;">장갑을 착용했을 때와 착용하지 않았을 때</span></b></span></td>
 </tr>
 </tbody>
 </table>
