@@ -35,6 +35,10 @@
 <td style="width: 70%; padding: 5px 10px; border: 1px solid #ddd; text-align: left;"><span style="color: #000000;">재생 능력</span></td>
 </tr>
 <tr style="height: auto;">
+<td style="width: 30%; padding: 5px 10px; border: 1px solid #ddd; text-align: center; background-color: #8b92c4;"><span style="color: #ffffff;"><b><span style="text-decoration: none;">MBTI</span></b></span></td>
+<td style="width: 70%; padding: 5px 10px; border: 1px solid #ddd; text-align: left;"><span style="color: #000000;">INTJ</span></td>
+</tr>
+<tr style="height: auto;">
 <td style="width: 30%; padding: 5px 10px; border: 1px solid #ddd; text-align: center; background-color: #8b92c4;"><span style="color: #ffffff;"><b><span style="text-decoration: none;">좋아하는 것</span></b></span></td>
 <td style="width: 70%; padding: 5px 10px; border: 1px solid #ddd; text-align: left;"><span style="color: #000000;">재미있는 인간</span></td>
 </tr>
