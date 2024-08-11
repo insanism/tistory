@@ -71,7 +71,15 @@
 </table>
 <details open>
 <summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차1"></a><a style="text-decoration: none !important;" href="#목차">1.</a> 개요</b></h2></summary>
-<p class="text1">내용을 적어요</p>
+<table style="border-collapse: collapse; width: auto; height: auto; margin: 1em 0;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr style="height: auto;">
+<td style="width: 100%; border: 2px dashed #ccc; border-left: 5px solid #8B92C4; background: #eee; padding: 1em; line-height: 160%;" class="text1">“한마디”</td>
+</tr>
+</tbody>
+</table>
+<p class="text1"><br />
+내용을 적어요</p>
 </details>
 <details open>
 <summary class="text1"><h2 style="font-size: 1.6em; border-bottom: 1px solid #ccc; margin: 1.2em 0 0.7em; padding-bottom: 5px;"><span style="color: #666; float: left; font-size: .9em; font-weight: 400; line-height: 1em; margin: 0.2em 0.4em 0 0.2em; text-align: center; width: 0.9em;"><ion-icon name="chevron-down-outline"></ion-icon></span> <b><a name="목차2"></a><a style="text-decoration: none !important;" href="#목차">2.</a> 외관</b></h2></summary>
